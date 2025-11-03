@@ -467,27 +467,27 @@ Stuart goes beyond static data queries. It performs structured business reasonin
 
 Here are real project examples demonstrating Stuart’s intelligence and reliability:
 
-**1. Logical Boundaries: The “What If” Scenario**
+**Q1. Logical Boundaries: The “What If” Scenario**
 
 This test highlights Stuart’s ability to reason about hypothetical outcomes without fabricating unsupported numbers.
 
 Question: “What’s the financial impact of improving our onboarding completion rate from 60 to 80 percent?”
 
-Result: Stuart used the known incomplete-onboarding churn rate (15.5 percent) to infer potential improvement while referencing the existing “Revenue at Risk” value (₹ 2,055,553 per month). Rather than hallucinating an arbitrary forecast, it described the analytical path a human would take—reducing churn, estimating retained revenue, and connecting onboarding to financial health.
+Result: Stuart used the known incomplete-onboarding churn rate (15.5 percent) to infer potential improvement while referencing the existing “Revenue at Risk”             value (₹ 2,055,553 per month). Rather than hallucinating an arbitrary forecast, it described the analytical path a human would take—reducing churn,               estimating retained revenue, and connecting onboarding to financial health.
 
-What this shows: Stuart performs controlled predictive reasoning. It knows how far to go with available data, framing logical insights instead of fake precision—proof of business-grade reliability.
+What this shows: Stuart performs controlled predictive reasoning. It knows how far to go with available data, framing logical insights instead of fake                             precision—proof of business-grade reliability.
 
-**2. Stress-Testing: Handling Ambiguous Data (CLV Analysis)**
+**Q2. Stress-Testing: Handling Ambiguous Data (CLV Analysis)**
 
 This test evaluates Stuart’s discipline when confronted with missing metrics.
 
 Question: “If we add a Customer Lifetime Value (CLV) column, how would you calculate it? Show me examples for CUST_00045 and CUST_00220.”
 
-Result: Stuart outlined the CLV formula (CL = Average Revenue / Churn Rate) and clearly explained its variables. When asked to compute the number, it recognized the dataset lacked historical purchase data and refused to guess, instead requesting more input.
+Result: Stuart outlined the CLV formula (CL = Average Revenue / Churn Rate) and clearly explained its variables. When asked to compute the number, it                     recognized the dataset lacked historical purchase data and refused to guess, instead requesting more input.
 
 What this shows: Stuart doesn’t hallucinate or invent unavailable data. It remains analytical and grounded, reinforcing trust for decision-making environments.
 
-**3. Strategic Prioritization: Focused Churn Intervention**
+**Q3. Strategic Prioritization: Focused Churn Intervention**
 
 This test demonstrates Stuart’s ability to transform raw insight into an actionable strategy.
 
