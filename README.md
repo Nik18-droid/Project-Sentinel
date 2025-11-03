@@ -65,7 +65,7 @@ Project Sentinel reimagines churn analysis as an AI-augmented, self-service plat
 
 ### Value Delivered
 
-✅ **99% time reduction** (2 hours → 30 seconds per analysis)  
+✅ **95% time reduction** (2 hours → 30 seconds per analysis)  
 ✅ **Real-time insights** enabling faster intervention  
 ✅ **Democratized access** for non-technical stakeholders  
 ✅ **₹7.7 lakhs projected annual savings** from improved retention
@@ -372,7 +372,7 @@ project-sentinel/
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
-| **Analysis Time** | 2 hours | 30 seconds | 99% reduction |
+| **Analysis Time** | 2 hours | 30 seconds | 95% reduction |
 | **Data Refresh** | Manual (days) | Real-time | Immediate |
 | **Stakeholder Access** | Analyst-gated | Self-service | Democratized |
 | **Churn Rate** | 8.5% | 6.3% (projected) | 2.2% reduction |
@@ -440,7 +440,7 @@ project-sentinel/
 - Technical writing
 
 **Process Improvement**
-- Workflow automation (99% efficiency gain)
+- Workflow automation (95% efficiency gain)
 - Scalability design
 - Quality assurance
 
