@@ -547,8 +547,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project interesting, please consider starring it! ⭐**
 
-**Built with 💡 strategic thinking, 💻 technical execution, and ☕ lots of coffee**
-
 </div>
 
 ---
