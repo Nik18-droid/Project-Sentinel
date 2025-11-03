@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-Project Sentinel is a comprehensive, AI-augmented customer churn analysis platform that transforms traditional manual analysis (2+ hours) into conversational, real-time insights (30 seconds). Built to demonstrate modern Business Analyst capabilities, this project combines traditional analytical rigor (SQL, Power BI) with emerging AI technologies (Python, OpenAI API) to solve a critical SaaS business problem.
+Project Sentinel is a comprehensive, AI-augmented customer churn analysis platform that transforms traditional manual analysis (2+ hours) into conversational, real-time insights (6 mins). Built to demonstrate modern Business Analyst capabilities, this project combines traditional analytical rigor (SQL, Power BI) with emerging AI technologies (Python, OpenAI API) to solve a critical SaaS business problem.
 
 **What makes this different:** Most BA portfolios show disconnected SQL queries and static dashboards. Project Sentinel delivers a complete, integrated platform where stakeholders can explore churn data through natural conversation with an AI assistant named "Stuart."
 
@@ -65,7 +65,7 @@ Project Sentinel reimagines churn analysis as an AI-augmented, self-service plat
 
 ### Value Delivered
 
-✅ **95% time reduction** (2 hours → 30 seconds per analysis)  
+✅ **95% time reduction** (2 hours → 6 mins per analysis)  
 ✅ **Real-time insights** enabling faster intervention  
 ✅ **Democratized access** for non-technical stakeholders  
 ✅ **₹7.7 lakhs projected annual savings** from improved retention
@@ -372,7 +372,7 @@ project-sentinel/
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
-| **Analysis Time** | 2 hours | 30 seconds | 95% reduction |
+| **Analysis Time** | 2 hours | 6 mins | 95% reduction |
 | **Data Refresh** | Manual (days) | Real-time | Immediate |
 | **Stakeholder Access** | Analyst-gated | Self-service | Democratized |
 | **Churn Rate** | 8.5% | 6.3% (projected) | 2.2% reduction |
