@@ -2,10 +2,6 @@
 
 ### AI-Augmented Customer Churn Analysis Platform
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE] (MIT License.txt) file for details.
-
 ---
 
 ## 📋 Table of Contents
@@ -512,7 +508,7 @@ Business Analyst | AI-Augmented Analytics Specialist
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](MIT License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
