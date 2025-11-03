@@ -4,7 +4,7 @@
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](MIT License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE] (MIT License.txt) file for details.
 
 ---
 
