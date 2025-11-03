@@ -492,28 +492,17 @@ project-sentinel/
 
 ---
 
-## 📚 Documentation
-
-Complete documentation available in `/documentation/` directory:
-
-1. **[Executive Summary](documentation/01_Executive_Summary.md)** - Business value overview for non-technical stakeholders
-2. **[Project Journey](documentation/02_Project_Journey.md)** - Development story with challenges and decisions
-3. **[Technical Architecture](documentation/03_Technical_Architecture.md)** - Complete implementation details with code
-4. **[Skills Demonstration Matrix](documentation/04_Skills_Demonstration_Matrix.md)** - Competency mapping for interviews
-5. **[Interview Script](documentation/05_Interview_Script.md)** - Presentation guide and Q&A preparation
-6. **[Study Notes](documentation/Study_Notes_Final.md)** - 3-page comprehensive quick reference
-
 ---
 
 ## 👨‍💻 Author
 
 **Nikhil Sharma**  
-Junior Business Analyst | AI-Augmented Analytics Specialist
+Business Analyst | AI-Augmented Analytics Specialist
 
 - **LinkedIn:** [linkedin.com/in/nikhilsharma8215](https://linkedin.com/in/nikhilsharma8215)
 - **GitHub:** [github.com/Nik18-droid](https://github.com/Nik18-droid)
 - **Email:** Nikhil.sharma369@outlook.com
-- **Location:** New Delhi, India
+- **Location:** Delhi, India
 
 ---
 
